@@ -1,0 +1,167 @@
+{
+  "title": "Qual área na tecnologia melhor combina com você?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "O que mais te atrai em tecnologia?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Garantir que sistemas funcionem sem falhas",
+          "alias": "QA"
+        },
+        {
+          "id": 2,
+          "name": "Criar novos softwares e funcionalidades",
+          "alias": "DEV"
+        },
+        {
+          "id": 3,
+          "name": "Analisar e interpretar dados",
+          "alias": "DADOS"
+        },
+        {
+          "id": 4,
+          "name": "Proteger sistemas contra ataques",
+          "alias": "CIBER"
+        },
+        {
+          "id": 5,
+          "name": "Ajudar usuários a resolver problemas técnicos",
+          "alias": "SUPORTE"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você lida com problemas técnicos?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Testo e valido até encontrar a falha",
+          "alias": "QA"
+        },
+        {
+          "id": 2,
+          "name": "Codifico uma solução do zero",
+          "alias": "DEV"
+        },
+        {
+          "id": 3,
+          "name": "Analiso os dados para entender o problema",
+          "alias": "DADOS"
+        },
+        {
+          "id": 4,
+          "name": "Busco falhas de segurança e corrijo",
+          "alias": "CIBER"
+        },
+        {
+          "id": 5,
+          "name": "Oriento o usuário passo a passo",
+          "alias": "SUPORTE"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "O que mais te incomoda em um sistema?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Bugs e falhas inesperadas",
+          "alias": "QA"
+        },
+        {
+          "id": 2,
+          "name": "Código mal estruturado",
+          "alias": "DEV"
+        },
+        {
+          "id": 3,
+          "name": "Falta de métricas e informações",
+          "alias": "DADOS"
+        },
+        {
+          "id": 4,
+          "name": "Vulnerabilidades e riscos de ataque",
+          "alias": "CIBER"
+        },
+        {
+          "id": 5,
+          "name": "Dificuldade do usuário em operar",
+          "alias": "SUPORTE"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "O que você mais gosta de estudar?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Melhores práticas de testes",
+          "alias": "QA"
+        },
+        {
+          "id": 2,
+          "name": "Novas linguagens e frameworks",
+          "alias": "DEV"
+        },
+        {
+          "id": 3,
+          "name": "Big Data e análise preditiva",
+          "alias": "DADOS"
+        },
+        {
+          "id": 4,
+          "name": "Segurança digital e hacking ético",
+          "alias": "CIBER"
+        },
+        {
+          "id": 5,
+          "name": "Novas formas de ajudar usuários",
+          "alias": "SUPORTE"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual dessas atividades parece mais interessante para você?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Automatizar testes para garantir qualidade",
+          "alias": "QA"
+        },
+        {
+          "id": 2,
+          "name": "Criar um sistema do zero",
+          "alias": "DEV"
+        },
+        {
+          "id": 3,
+          "name": "Transformar dados em insights",
+          "alias": "DADOS"
+        },
+        {
+          "id": 4,
+          "name": "Detectar e prevenir ataques",
+          "alias": "CIBER"
+        },
+        {
+          "id": 5,
+          "name": "Ajudar usuários a resolver problemas",
+          "alias": "SUPORTE"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "QA": "Sua melhor área é Quality Assurance! Você gosta de garantir que tudo funcione perfeitamente e sem falhas.",
+    "DEV": "Desenvolvimento de Software é sua vocação! Você gosta de criar novas soluções e programar sistemas eficientes.",
+    "DADOS": "A área de dados combina com você! Você gosta de analisar informações e extrair insights valiosos.",
+    "CIBER": "Cibersegurança é seu forte! Você se preocupa em manter sistemas seguros contra ameaças.",
+    "SUPORTE": "Suporte técnico é a sua área! Você tem paciência e habilidade para ajudar usuários a resolver problemas."
+  }
+}
